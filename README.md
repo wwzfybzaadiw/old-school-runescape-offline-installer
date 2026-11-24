@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+RuneScape is a high fantasy open world MMORPG. Explore an ever changing and evolving living world where new challenges, skills, and quests await. Featuring unprecedented player freedom, you choose how to play, adventure, and grow.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,8 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 or later / Rec: Windows 10 or higher | MacOS 11 (Big Sur) or later |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
